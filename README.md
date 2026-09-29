@@ -54,11 +54,12 @@ The application can be tested with questions such as:
 ![Python Response](screenshots/python-response.png)
 
 ## Installation
-cd ollama-streamlit-ai-study-assistant
+1. Clone the repository
+2. Open the project folder
 3. Install Python dependencies
-pip install -r requirements.txt
 4. Make sure Ollama and Llama 3.2 are available
-The application requires Ollama to be installed and the Llama 3.2 model to be available locally.
+5. Run the Streamlit application
+streamlit run app.py
 ## Project Structure
 ollama-streamlit-ai-study-assistant/
 │
