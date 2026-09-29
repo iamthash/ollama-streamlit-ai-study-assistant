@@ -39,6 +39,19 @@ The application can be tested with questions such as:
 - What is a neural network?
 - Explain Python to a beginner.
 - What is the difference between AI and machine learning?
+## Screenshots
+
+### Main Interface
+
+![AI Study Assistant](screenshots/home.png)
+
+### Neural Network Response
+
+![Neural Network Response](screenshots/neural-network.png)
+
+### Python Response
+
+![Python Response](screenshots/python-response.png)
 
 ## Installation
 cd ollama-streamlit-ai-study-assistant
